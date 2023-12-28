@@ -1,0 +1,14 @@
+apache_flink==1.18.0
+apache_flink_libraries==1.18.0
+fairscale==0.4.13
+fire==0.5.0
+kafka_python==2.0.2
+matplotlib==3.8.0
+numba==0.58.0
+numpy==1.24.3
+numpy==1.24.4
+psutil==5.9.0
+pyspark==3.4.1
+sentencepiece==0.1.99
+setuptools==68.0.0
+torch==2.0.1+cu117
